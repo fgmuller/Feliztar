@@ -145,7 +145,7 @@ function accionPlaySapy() {
 
 var sapy = new Image();
 sapy.src =
- 'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2488875188.jpg';
+ 'https://github.com/fgmuller/Feliztar/blob/gh-pages/Respira%20Rapido%20con%20Sapy.png';
 
 
 
