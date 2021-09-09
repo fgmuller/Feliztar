@@ -33,52 +33,52 @@ function accionPlay() {
  */
 var imagenes = new Array(
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573881.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/1%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467575138.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/2%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467587008.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/3%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573476.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/4%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573886.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/5%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467569661.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/6%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467583804.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/7%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573891.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/8%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467569666.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/9%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573896.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/10%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467564161.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/11%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573481.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/12%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573486.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/13%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573491.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/14%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467573901.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/15%20Fely.png',
  ],
  [
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2467564166.jpg',
+  'https://raw.githubusercontent.com/fgmuller/Feliztar/gh-pages/16%20Fely.png',
  ]
 
 
