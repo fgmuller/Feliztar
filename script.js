@@ -158,7 +158,7 @@ function rotarSapy() {
  document.getElementById(
    "imagenSapy")
   .src =
-  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2488875188.jpg';
+  'https://github.com/fgmuller/Feliztar/blob/gh-pages/Sapy%20Animacion.gif';
 
 } //
 
