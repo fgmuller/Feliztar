@@ -16,16 +16,14 @@
 
 
 
-
 function accionPlay() {
  var reproducir = new Audio();
  reproducir.src =
-  "https://github.com/fgmuller/Feliztar/blob/gh-pages/Fely%20Audio.mp3";
+  "https://static.wixstatic.com/mp3/e7e65a_05f76dc580464cfe86105772a016a91b.mp3";
  reproducir.play();
  reproducir.loop = true;
  reproducir.controls = true;
 }
-
 
 
 /**
@@ -129,7 +127,7 @@ function detener() {
 function accionPlaySapy() {
  var reproducir = new Audio();
  reproducir.src =
-  "https://github.com/fgmuller/Feliztar/blob/gh-pages/Sapy%20Audio.mp3";
+  "https://static.wixstatic.com/mp3/e7e65a_7c18a20fc8214526ae383e5d2029f01d.mp3";
  reproducir.play();
  reproducir.loop = true;
  reproducir.controls = true;
@@ -145,7 +143,7 @@ function accionPlaySapy() {
 
 var sapy = new Image();
 sapy.src =
- 'https://github.com/fgmuller/Feliztar/blob/gh-pages/Sapy%20Animacion.gif';
+ 'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2488875188.jpg';
 
 
 
@@ -158,7 +156,7 @@ function rotarSapy() {
  document.getElementById(
    "imagenSapy")
   .src =
-  'https://github.com/fgmuller/Feliztar/blob/gh-pages/Sapy%20Animacion.gif';
+  'https://d2j6dbq0eux0bg.cloudfront.net/images/64486669/2488875188.jpg';
 
 } //
 
@@ -180,13 +178,12 @@ function iniciarSapy() {
 
 
 
-
 //MAR//
 
 function accionPlayMar() {
  var reproducir = new Audio();
  reproducir.src =
-  "https://github.com/fgmuller/Feliztar/blob/gh-pages/Mar%20Audio.mp3";
+  "https://static.wixstatic.com/mp3/e7e65a_0218edf90fba4cff954d5d96f417cf00.mp3";
  reproducir.play();
  reproducir.loop = true;
  reproducir.controls = true;
