@@ -1,0 +1,285 @@
+
+.feliztarLogo
+{
+width:300px;
+height:80px;
+padding-bottom:1px;
+margin: 10px 40px;
+position: center;
+}
+
+
+
+
+a#mimo-install-banner { display: none; }
+a#mimo-install-banner-mobile { display: none; }
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: lightYellow;
+
+}
+
+main{
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.contenedor__todo{
+    width: 100%;
+    max-width: 800px;
+
+    position: relative;
+}
+
+.caja__trasera{
+    width: 100%;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: rgba(#38B6FF);
+
+}
+
+.caja__trasera div{
+    margin: 100px 40px;
+    color: white;
+    transition: all 500ms;
+}
+
+
+.caja__trasera div p,
+.caja__trasera button{
+    margin-top: 30px;
+}
+
+.caja__trasera div h3{
+    font-weight: 400;
+    font-size: 26px;
+}
+
+.caja__trasera div p{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.caja__trasera button{
+    padding: 10px 40px;
+    border: 2px solid #fff;
+    font-size: 14px;
+    background: transparent;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+    outline: none;
+    transition: all 300ms;
+}
+
+.caja__trasera button:hover{
+    background: #fff;
+    color: #46A2FD;
+}
+
+/*Formularios*/
+
+.contenedor__login-register{
+    display: flex;
+    align: center;
+    width: 100%;
+    max-width: 300px;
+
+
+    left: 1px;
+    border: 5px solid #38B6FF;
+
+    /*La transicion va despues del codigo JS*/
+    transition: left 500ms cubic-bezier(0.175, 0.885, 0.320, 1.275);
+}
+
+.contenedor__login-register form{
+    width: 100%;
+    padding: 80px 20px;
+    background: white;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.contenedor__login-register form h2{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #38B6FF;
+}
+
+.contenedor__login-register form input{
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    background: #F2F2F2;
+    font-size: 16px;
+    outline: none;
+}
+
+.enlace{
+    padding: 10px 10px;
+    margin-top: 300px;
+    border: none;
+    font-size: 14px;
+    background: #38B6FF;
+    font-weight: 600;
+    cursor: pointer;
+    color: white;
+    outline: none;
+}
+
+input[type=button] {
+    padding: 10px 10px;
+    margin-top: 300px;
+    border: none;
+    font-size: 14px;
+    background: #38B6FF;
+    font-weight: 600;
+    cursor: pointer;
+    color: #38B6FF;
+    outline: none;
+}
+
+
+.formulario__login{
+    opacity: 1;
+    display: block;
+}
+.formulario__register{
+    display: none;
+}
+
+
+
+@media screen and (max-width: 850px){
+
+    main{
+        margin-top: 50px;
+    }
+
+    .caja__trasera{
+        max-width: 300px;
+        height: 300px;
+        flex-direction: column;
+        margin: auto;
+    }
+
+    .caja__trasera div{
+        margin: 0px;
+        position: absolute;
+    }
+
+
+    /*Formularios*/
+
+    .contenedor__login-register{
+        top: -10px;
+        left: -5px;
+        margin: auto;
+    }
+
+    .contenedor__login-register form{
+        position: relative;
+    }
+}
+
+
+
+
+
+a#mimo-install-banner { display: none; }
+a#mimo-install-banner-mobile { display: none; }
+
+.volverLogo
+{
+width:150px;
+height:40px;
+padding-bottom:1px;
+position:relative;
+align:center;
+}
+
+
+.respiruFinalizar
+{
+width:150px;
+height:40px;
+padding-bottom:1px;
+position:relative;
+align:center;
+}
+
+
+.respiruIniciar
+{
+width:150px;
+height:40px;
+padding-bottom:1px;
+position:relative;
+align:center;
+}
+
+
+.feliztarLogo
+{
+width:300px;
+height:80px;
+padding-bottom:1px;
+position:relative;
+align:center;
+}
+
+.feliztarEjercicio
+{
+width:300px;
+height:300px;
+padding-bottom:1px;
+position:relative;
+align:center;
+}
+
+
+p {
+ background-color: white;
+ margin-top: 10px;
+ margin-left: 30px;
+ margin-right: 30px;
+ padding: 20px;
+}
+
+h3 {
+ margin: 10px;
+}
+
+h1 {
+  margin-top: 10px;
+}
+
+img {
+  align:center;
+}
+
+
+body {
+ background-color: lightYellow;
+ color: #38B6FF;
+ text-align: center;
+ font-family: 'Roboto', sans-serif;
+}
